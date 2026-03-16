@@ -24,7 +24,7 @@ Designed for players who want to progress efficiently without spending hours gri
 
 | Game | Package |
 |------|---------|
-| **Age of Origins** | `com.camelgames.aoz` |
+| link | `link` |
 
 > More games may be supported via custom `.bot` scripts.
 
