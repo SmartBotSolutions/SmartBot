@@ -6,6 +6,13 @@
       "size": 20243632,
       "sha256": "2531106384ed7185e826cbafeff7bd544559b0a5e69e0424e6e3499b03898206",
       "url": "https://github.com/SmartBotSolutions/SmartBot/releases/download/Scripts/Age.of.Origins.-.Tutorial.bot"
+    },
+    {
+      "name": "gamedata.dat",
+      "version": "0.0.2",
+      "size": 1211307852,
+      "sha256": "f8edcb25aef148edb8289d8c10cc5a7bf9fdd16d38c974945730695ddc8938fb",
+      "url": "https://github.com/SmartBotSolutions/SmartBot/releases/download/GameFiles/gamedata.dat"
     }
   ]
 }
