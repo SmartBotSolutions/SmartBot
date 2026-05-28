@@ -9,9 +9,9 @@
     },
     {
       "name": "gamedata.dat",
-      "version": "0.0.2",
-      "size": 1211307852,
-      "sha256": "f8edcb25aef148edb8289d8c10cc5a7bf9fdd16d38c974945730695ddc8938fb",
+      "version": "1.0.2880",
+      "size": 1222854035,
+      "sha256": "2a593f9f1f6230a1771d7561b1305b32db2945ffbb68ee3d8eaa52be0ad137f2",
       "url": "https://github.com/SmartBotSolutions/SmartBot/releases/download/GameFiles/gamedata.dat"
     }
   ]
